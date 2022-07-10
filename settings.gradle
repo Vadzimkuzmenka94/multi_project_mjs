@@ -1,0 +1,4 @@
+rootProject.name = 'multi_project_mjs'
+include 'api'
+include 'core'
+

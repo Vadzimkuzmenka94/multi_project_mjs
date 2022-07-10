@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="StringUtils.main">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../StringUtils/out/artifacts/StringUtils_main_jar/StringUtils.main.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
